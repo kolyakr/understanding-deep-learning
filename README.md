@@ -1,5 +1,3 @@
-Here's a README file set up for you to track your reading progress through the book.
-
 # Reading Log: Understanding Deep Learning
 
 This file tracks my progress through the book _Understanding Deep Learning_ (by Simon J.D. Prince, based on the draft ToC).
