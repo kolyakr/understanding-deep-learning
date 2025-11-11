@@ -19,7 +19,7 @@ This file tracks my progress through the book _Understanding Deep Learning_ (by 
 
 - [x] **Chapter 2: Supervised learning**
 
-- [ ] **Chapter 3: Shallow neural networks**
+- [x] **Chapter 3: Shallow neural networks**
 
 - [ ] **Chapter 4: Deep neural networks**
 
