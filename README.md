@@ -25,7 +25,7 @@ This file tracks my progress through the book _Understanding Deep Learning_ (by 
 
 - [x] **Chapter 5: Loss functions**
 
-- [ ] **Chapter 6: Fitting models**
+- [x] **Chapter 6: Fitting models**
 
 - [ ] **Chapter 7: Gradients and initialization**
 
