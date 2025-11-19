@@ -27,7 +27,7 @@ This file tracks my progress through the book _Understanding Deep Learning_ (by 
 
 - [x] **Chapter 6: Fitting models**
 
-- [ ] **Chapter 7: Gradients and initialization**
+- [x] **Chapter 7: Gradients and initialization**
 
 - [ ] **Chapter 8: Measuring performance**
 
