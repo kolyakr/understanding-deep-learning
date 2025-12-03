@@ -29,9 +29,9 @@ This file tracks my progress through the book _Understanding Deep Learning_ (by 
 
 - [x] **Chapter 7: Gradients and initialization**
 
-- [ ] **Chapter 8: Measuring performance**
+- [x] **Chapter 8: Measuring performance**
 
-- [ ] **Chapter 9: Regularization**
+- [x] **Chapter 9: Regularization**
 
 - [ ] **Chapter 10: Convolutional networks**
 
