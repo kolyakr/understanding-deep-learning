@@ -33,9 +33,9 @@ This file tracks my progress through the book _Understanding Deep Learning_ (by 
 
 - [x] **Chapter 9: Regularization**
 
-- [ ] **Chapter 10: Convolutional networks**
+- [x] **Chapter 10: Convolutional networks**
 
-- [ ] **Chapter 11: Residual networks**
+- [x] **Chapter 11: Residual networks**
 
 - [ ] **Chapter 12: Transformers**
 
